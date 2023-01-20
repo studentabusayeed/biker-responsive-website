@@ -1,0 +1,32 @@
+.header-section {
+    background-color: #264653;
+    ;
+}
+
+.sayeed {
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+hr {
+    width: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid red;
+}
+
+.hello {
+    width: 40%;
+}
+
+.hi {
+    width: 40%;
+}
+
+.happy {
+    font-weight: 400;
+    font-size: 16px;
+    color: #6C6C6C;
+    line-height: 26px;
+    letter-spacing: 0.2px
+}
